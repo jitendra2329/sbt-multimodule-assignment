@@ -1,2 +1,6 @@
 *.class
 *.log
+/multimodule/target/streams/*
+/multimodule/.bsp/*
+/multimodule/core/project/target/streams/*
+
